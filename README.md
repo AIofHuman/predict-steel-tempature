@@ -1,2 +1,2 @@
 # predict-steel-tempature
-This is html version of Jupyter notebook
+Predict steel temperatures during smelting
