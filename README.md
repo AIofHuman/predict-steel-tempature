@@ -7,7 +7,7 @@ We research data and several classes of machine learning in this Jupyter noteboo
 ## Stack:
 * pandas
 * plotly
-* seanborn
+* seaborn
 * scikit-learn
 * LightGBM
 * CatBoost
