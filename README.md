@@ -18,10 +18,10 @@ We research data and several classes of machine learning in this Jupyter noteboo
 <img src="./files/DataAnalise.png" height="400">
 
 * Сorrelation matrix
-<img src="./files/DataAnalise.png" height="400">
+<img src="./files/CorrelationMatrix.png" height="400">
 
 * Feature importance
-<img src="./files/FeatureImportance.png" height="400">
+<img src="./files/FeatureImportant.png" height="400">
 
 * Select best model
 
