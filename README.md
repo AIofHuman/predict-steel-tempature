@@ -35,6 +35,6 @@ We research data and several classes of machine learning in this Jupyter noteboo
 | CatBoost final   (with feature selection) | <catboost.core.CatBoostRegressor object at 0x0... | 4.951184  | 5.859172 |
 
 ## Files
-* [russian version](Проект Температура стали при легировании финал.ipynb)
-* [russian html version](Проект Температура стали при легировании финал.html)
+* [russian version]("Проект Температура стали при легировании финал.ipynb")
+* [russian html version]("Проект Температура стали при легировании финал.html")
 * english version not ready
