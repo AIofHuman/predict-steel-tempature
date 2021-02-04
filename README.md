@@ -4,6 +4,15 @@
 We need optimize a energy consumption while steel have smelting. The better way to achieve this aim to predict temperature of last measurement during produce steel.
 We research data and several classes of machine learning in this Jupyter notebook. Choose the best model and make some feature analise.
 
+## Stack:
+* pandas
+* plotly
+* seanborn
+* scikit-learn
+* LightGBM
+* CatBoost
+
+
 ## Main features
 * Data analise
 <img src="./files/DataAnalise.png" height="400">
